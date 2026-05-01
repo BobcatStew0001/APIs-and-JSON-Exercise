@@ -43,28 +43,41 @@ public class Weather
         return clientResponse.Content.ReadAsStringAsync().Result;
     }
 
+    
     public static string GetFormattedWeather()
     {
-        Console.WriteLine("Welcome to Zach's Weather App");
-        string? cityName = JObject.Parse(geoResponse).GetValue("name").ToString();
-        string weatherDataResponse =
-        GetWeatherData();
-        JObject mainObject =
-        (JObject)JObject.Parse(weatherDataResponse).GetValue("main");
-        string? tempObject =
-        mainObject.GetValue("temp").ToString();
-        
-        string? humidityObject =
-        mainObject.GetValue("humidity").ToString();
-        
-        string? feelsLikeObject =
-        mainObject.GetValue("feels_like").ToString();
-        
         var client = new HttpClient();
         var ronUrl = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
         var ronResponse = client.GetStringAsync(ronUrl).Result;
         var ron = JArray.Parse(ronResponse)[0];
         
-        return $"The weather in {cityName} is {tempObject} degrees Fahrenheit with a feel like of {feelsLikeObject} degrees Fahrenheit, and humidity of {humidityObject}%. \n Words of Wisdon from Ron: {ron}";
+        Console.WriteLine("Welcome to Zach's Weather App");
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine($"Ron Quote of the Day: {ron}");
+        Console.ResetColor();
+        string? cityName = JObject.Parse(geoResponse).GetValue("name").ToString();
+        string weatherDataResponse =
+            GetWeatherData();
+        JObject mainObject =
+            (JObject)JObject.Parse(weatherDataResponse).GetValue("main");
+        
+        string? tempObject =
+            mainObject.GetValue("temp").ToString();
+        
+        string? humidityObject =
+            mainObject.GetValue("humidity").ToString();
+        
+        string? feelsLikeObject =
+            mainObject.GetValue("feels_like").ToString();
+
+        var weatherObject = JObject.Parse(weatherDataResponse).GetValue("weather")[0];
+        var forecast = weatherObject.Value<string>("main");
+        var description = weatherObject.Value<string>("description");
+
+        
+        
+        return $"The weather forcast for {cityName} today is {forecast}. \n {cityName} will see {description} and {tempObject} degrees Fahrenheit with a feel like of {feelsLikeObject} degrees Fahrenheit,\n with a humidity of {humidityObject}%." +
+               $"\n Words of Wisdon from Ron: {ron}";
     }
+       
 }
