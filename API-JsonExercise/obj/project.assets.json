@@ -805,11 +805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brown\\OneDrive\\Documents\\ReposCSharp\\AAUdemy Notes\\API-JsonExercise\\API-JsonExercise\\API-JsonExercise.csproj",
+      "projectUniqueName": "C:\\Users\\brown\\OneDrive\\Documents\\ReposCSharp\\API-JsonExercise\\API-JsonExercise\\API-JsonExercise.csproj",
       "projectName": "API-JsonExercise",
-      "projectPath": "C:\\Users\\brown\\OneDrive\\Documents\\ReposCSharp\\AAUdemy Notes\\API-JsonExercise\\API-JsonExercise\\API-JsonExercise.csproj",
+      "projectPath": "C:\\Users\\brown\\OneDrive\\Documents\\ReposCSharp\\API-JsonExercise\\API-JsonExercise\\API-JsonExercise.csproj",
       "packagesPath": "C:\\Users\\brown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brown\\OneDrive\\Documents\\ReposCSharp\\AAUdemy Notes\\API-JsonExercise\\API-JsonExercise\\obj\\",
+      "outputPath": "C:\\Users\\brown\\OneDrive\\Documents\\ReposCSharp\\API-JsonExercise\\API-JsonExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
