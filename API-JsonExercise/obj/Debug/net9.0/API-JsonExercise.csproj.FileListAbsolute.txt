@@ -27,3 +27,33 @@ C:\Users\brown\OneDrive\Documents\ReposCSharp\AAUdemy Notes\API-JsonExercise\API
 C:\Users\brown\OneDrive\Documents\ReposCSharp\AAUdemy Notes\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.pdb
 C:\Users\brown\OneDrive\Documents\ReposCSharp\AAUdemy Notes\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.genruntimeconfig.cache
 C:\Users\brown\OneDrive\Documents\ReposCSharp\AAUdemy Notes\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\ref\API-JsonExercise.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\API-JsonExercise.exe
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\API-JsonExercise.deps.json
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\API-JsonExercise.runtimeconfig.json
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\API-JsonExercise.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\API-JsonExercise.pdb
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\System.IO.Pipelines.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\System.Text.Encodings.Web.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.sourcelink.json
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-Json.4BB8CED2.Up2Date
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\refint\API-JsonExercise.dll
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.pdb
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\API-JsonExercise.genruntimeconfig.cache
+C:\Users\brown\OneDrive\Documents\ReposCSharp\API-JsonExercise\API-JsonExercise\obj\Debug\net9.0\ref\API-JsonExercise.dll

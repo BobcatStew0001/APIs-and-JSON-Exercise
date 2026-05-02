@@ -53,7 +53,7 @@ public class Weather
         
         Console.WriteLine("Welcome to Zach's Weather App");
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine($"Ron Quote of the Day: {ron}");
+        Console.WriteLine($"Quote of the Day: {ron}");
         Console.ResetColor();
         string? cityName = JObject.Parse(geoResponse).GetValue("name").ToString();
         string weatherDataResponse =
@@ -76,7 +76,7 @@ public class Weather
 
         
         
-        return $"The weather forcast for {cityName} today is {forecast}. \n {cityName} will see {description} and {tempObject} degrees Fahrenheit with a feel like of {feelsLikeObject} degrees Fahrenheit,\n with a humidity of {humidityObject}%.";
+        return $"The weather forcast for {cityName} today is {forecast}. \n {cityName} will see {description} with a temperature of  {tempObject} degrees and  a feels like temperature of {feelsLikeObject} degrees,\n with a humidity of {humidityObject}%.";
     }
        
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API-JsonExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d57e677076281adfa97d6bd4305b5e2d77f39c49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a82687ea185cc99fa9e6650587830fec1f918ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-JsonExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-JsonExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
